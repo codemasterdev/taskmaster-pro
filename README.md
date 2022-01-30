@@ -1,5 +1,6 @@
 # Taskmaster-Pro
 ![made-with-javascript](https://img.shields.io/badge/Made%20With-JAVASCRIPT-yellow) ![html/css](https://img.shields.io/badge/-HTML%2FCSS-blue) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-green) ![Jquery](https://img.shields.io/badge/-Jquery-purple) ![first-releases](https://img.shields.io/badge/Version-1.1-orange)
+
 ## Description 
 Application was built to stay in line with your important task that you have a deadline with. Task changes with color as they get closer to deadline or past the deadline.
 
@@ -22,6 +23,9 @@ Application was built to stay in line with your important task that you have a d
 - `Moment.js`
 - `Jquery/JqueryUI`
 - Coded with `VS Code`
+
+## Contribution
+Made with ❤️ by [Devon Webster]
 
 ## Images
 
